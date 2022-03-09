@@ -1,6 +1,22 @@
-I like getting GitHub to work
-I like music
-I like pork pies
-I like crisps
-I like tea very much
-I like Radio 4
+<<<<<<< HEAD
+I like tea
+I like snow
+=======
+
+>>>>>>> Alex
+I like zxm
+I like IBI
+I like R&B
+I like sunshine
+I like spring
+I like syx very much
+I like youth
+<<<<<<< HEAD
+I like you
+=======
+I like drinking water
+I like doing exercise
+I like fresh air
+I like the Crawley family
+I like u
+>>>>>>> Alex
