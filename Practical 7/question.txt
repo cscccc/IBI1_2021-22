@@ -1,0 +1,50 @@
+Question: Are there places in the World where there have not yet been more than 10 total infections (as of 31 March)? If so, where are they?
+
+Line number: 76-96
+
+Result:
+The places in the World where there have not yet been more than 10 total infections (as of 31 March) are
+219                               Angola
+224                             Anguilla
+236                  Antigua and Barbuda
+942                               Belize
+957                                Benin
+987                               Bhutan
+1119              British Virgin Islands
+1386                          Cape Verde
+1414            Central African Republic
+1426                                Chad
+2399                    Falkland Islands
+2411                                Fiji
+2621                               Gabon
+2635                              Gambia
+2948                           Greenland
+2957                             Grenada
+3021                       Guinea-Bissau
+3038                              Guyana
+4192                                Laos
+4320                             Liberia
+4327                               Libya
+4752                     Mariana Islands
+4769                          Mauritania
+5008                          Montserrat
+5039                          Mozambique
+5144                               Nepal
+5343                           Nicaragua
+5757                    Papua New Guinea
+6236               Saint Kitts and Nevis
+6253                         Saint Lucia
+6261    Saint Vincent and the Grenadines
+6439                          Seychelles
+6602                             Somalia
+6719                         South Sudan
+6912                               Sudan
+6924                            Suriname
+6941                           Swaziland
+7134                               Syria
+7334                               Timor
+7419            Turks and Caicos Islands
+7774                             Vatican
+7995                            Zimbabwe
+
+Discussion: The results showed that countries with fewer than 10 cases were mostly small countries. Small populations and infrequent population movements may account for the low number of cases.
