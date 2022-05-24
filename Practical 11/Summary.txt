@@ -1,0 +1,12 @@
+Summary:
+The score for alignment in human and mouse DLX5 sequence is: 1490
+The score for alignment in human DLX5 and random sequence is: -351
+The score for alignment in mouse DLX5 and random sequence is: -348
+The identical percentage of DLX5 in human and random sequence is: 0.02768166089965398
+The identical percentage of DLX5 in mouse and random sequence is: 0.031141868512110725
+The identical percentage of DLX5 in mouse and in human is: 0.9653979238754326
+This program utilizes BLOSUM62 to do the alignment of amino acid sequence.
+To avoid using difficult matrix, we can turn it into a dataframe format and take out value from index and column
+For the similarity, we align the amino acid one to one, and calculate the identical percentage
+From the result we can find that the similarity between human and mouse DLX5 is very high (near 97%). The alignment score of human and mouse sequence is large also suggest the same idea.
+It means that through evolution the amino acid does change, influcing protein structure and function. However, their similarity to a random sequence is very small().
